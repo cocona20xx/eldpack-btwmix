@@ -5,7 +5,7 @@ Currently WIP. Things that need to be done before release:
 - Double-check certain inventories, such as the creative mode survival inventory screen
 - Organizational stuff
 
-Textures made *specifically for BTWCE Mix* are CC BY-NC, refer to the Eldpack Continued Readme below for attribution details for other textures. 
+Textures made *specifically for BTWCE Mix* are [CC BY-NC](BTWMIX-SPECIFIC-ART-LICENSE), refer to the Eldpack Continued Readme below for attribution details for other textures. 
 
 
 Main Eldpack Continued Readme:
