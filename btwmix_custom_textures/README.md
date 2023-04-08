@@ -1,3 +1,179 @@
 BTWMix Custom Textures Directory
 =======================
 This directory contains `.asesprite` files and various misc. `.png` exports for the vast majority of textures created specifically for Eldpack Continued BTWMix.
+
+TODO TEXTURES LIST (BLOCKS):
+- Anchor block textures 
+- BTW:CE Anvil texture 
+- Ash groundcover/block texture 
+- Axle textures 
+- Barel top texture? the vanilla equiv. texture might be fine here as it is w. the side texture
+- Wicker basket textures
+- Bellows textures
+- Quartz Textures ('BlackStone'); these can probably just be a recolor
+- All Blight Textures
+- Block Dispenser Textures
+- BloodWood textures? (might just use crimson wood's textures for this?)
+- Placed bucket related textures
+- Buddy Block textures
+- Campfire textures
+- Carrot flower textures? need to learn how these actually work in a test world
+- BTW Cauldron textures
+- Cement textures
+- Chopping block textures
+- Clay 'ore' texture
+- Cobble & Stone Brick variant textures (probably just recolors for stratas, at least!), loose textures for cobble and various brick types, dirt, etc
+- Column textures
+- Companion Cube textures
+- Ore chunk textures (storage block forms can just use vanilla ore block textures as equiv.)
+- Storage block texturess for a large variety of materials
+- Detector block textures
+- Wooden and SFS Detector Rails
+- Fertilized farmland textures (can be simple edits of regular farmland!)
+- Brick furnace textures
+- Gearbox textures & redstone latch textures
+- Sparce grass overlay + underlying dirt textures (just reuse loose dirt for underlying?)
+- Grate block texture
+- Nether groth textures
+- Hamper textures (can probably sample from basket textures for this once those are made)
+- Hand crank textures
+- Hemp crop textures
+- Hibachi textures
+- BTW Hopper textures
+- Infernal Enchanter Textures
+- Lava Pollow texture
+- Lens textures
+- Light Block textures
+- Lightning Rod texture? (looks to literally just be the gold block texture?)
+- Smoldering Log texture
+- ...milk and choccy milk block texture
+- Millstone textures
+- Mining charge textures
+- Grass/Mycelium/etc slab textures
+- Netherrack ore palette-swap to corrispond with 'darkstone' changes
+- strata versions of ore blocks (recolors? overlay nonsense?)
+- Packed earth texture
+- uncooked pastry texture (bread/cake?)
+- stone pedistal texture
+- planter textures
+- powder keg textures
+- sfs pressure plate texture
+- pulley textures
+- rope block textures
+- sapling stage textures 
+- saw textures
+- screwpump textures
+- placed shaft/stick texture
+- piston shovel textures
+- soulforge textures
+- stake and string?? guh??
+- finite torch smoldering textures
+- tree stump/trunk textures
+- turntable textures
+- pumpkin pie block textures
+- pottery-related textures that aren't the crucible
+- veghenna-reworked wheat textures
+- wicker block texture
+- 'woodCinders' texture (can probably reuse ashes texture for this maybe?)
+- workstump textures
+- various overlay textures (there's a lot of these, some reuse breaking textures) 
+
+TODO TEXTURES LIST (ITEMS):
+- Ancient Prophecy texture
+- Diamond and SFS Armor Plate textures
+- Rotten and Broadhead Arrow-related textures (also needs entity textures!)
+- Various SFS Tool textures w.o vanilla tool counterparts
+- bark textures (could go the lazy route and just use the log side textures to start, but these should get a proper texture eventually!!)
+- bat wing texture
+- beast liver textures (cooked & raw)
+- bedroll texture (also needs a TE texture, probably?)
+- leather processing textures (tanned and scoured variants, cut variants, belt texture, etc)
+- windmill blade and waterwheel blade textures (both also need entity textures)
+- blasting oil texture
+- composite bow textures
+- bread dought texture
+- unfired brick & nether brick textures, stone brick textures, etc
+- brimstone dust texture
+- choccy milk & cement bucket textures
+- canvas texture (can probably be derived from the item frame texture?)
+- cooked carrot texture & carrot seeds texture
+- both bone fish hook textures (unfinished/'carvingBone' & finished)
+- chicken feed texture
+- iron and diamond chisel textures
+- stone 'chisel' texture (sharp rock)
+- chocolate texture
+- wood & bone club textures
+- cocoa powder texture
+- concentrated hellfire & dust hellfire textures
+- corpse eye texture (recolor of eye of ender, maybe?)
+- ~~creeper's balls~~ creeper oysters texture
+- pork, steak, and wolf dinner textures
+- donut texture
+- dung & golden dung texture
+- sawdust and souldust textures
+- dynamite texture
+- egg food item textures (fried, poached, raw, uncooked scrambled, cooked scramled, various omlettes cooked/uncooked)
+- heating element texture
+- ender slag texture
+- ender spectacles texture
+- hemp fiber texture (slight edit and recolor of string should work here)
+- filament texture
+- firestarter (bow drill & fire plough) textures
+- hooked fishing rod texture (edit of fishing rod is the obvious choice for this)
+- flour texture
+- foul food texture
+- fuse texture (edited string again?)
+- wooden gear texture
+- gimp 'armor' textures
+- glue texture
+- grate item texture (just reuse the block texture for this!!!)
+- haft texture
+- ham and eggs texture
+- breeding harness texture
+- hemp texture
+- raw & cooked kebab textures
+- kibble texture
+- textures related to knitting
+- mail segment texture
+- burned and cured meat
+- mashed melon and pumpkin
+- metal fragment texture
+- mass-crafting helper mould texture
+- mysterious gland texture
+- nethercoal texture
+- nether quartz recolor to make it darker
+- ground netherrack texture
+- nether sludge texture
+- steel nugget texture
+- ocular of ender texture
+- padded armor textures
+- uncooked cake, cookies, and pumpkin pie textures
+- fabric texture
+- textures for piles (clay, dirt, gold dust, iron dust, sand, soul sand)
+- redstone eye texture
+- redstone latch texture
+- rope texture
+- tasty sandwich texture
+- screwpump screw texture
+- arcane scroll texture (identical to ancient prophecy texture in base BTW, should probably be the same!)
+- diamond shears texture
+- infused skull texture (and TE texture)
+- soap texture
+- slats texture
+- soul flux texture
+- chicken soup texture
+- nether groth spores texture
+- stake texture
+- steak and potatoes texture
+- hearty stew texture
+- loose stone textures (for each strata)
+- straw texture (should be similar to wheat)
+- stump remover texture 
+- tallow texture
+- tuning fork texture
+- urn & soul urn textures
+- water wheel texture
+- windmill texture (normal & vertical)
+- wicker block (use block texture here ofc) & wicker 'piece' textures, wicker weaving texture
+- wool ball texture
+- wool armor textures

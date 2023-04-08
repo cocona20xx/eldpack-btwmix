@@ -1,9 +1,10 @@
 Eldpack Continued: BTWMix
 ============================
 Currently WIP. Things that need to be done before release:
-- Nearly all FC-textures (stuff added by BTW) as most do not have vanilla counterparts
-- Double-check certain inventories, such as the creative mode survival inventory screen
-- Organizational stuff
+- Make textures for things added by BTW:CE that do not have vanilla counterparts in newer versions
+- Copy-paste textures for items and blocks added by BTW:CE that have vanilla counterparts in newer versions
+Check the README in the [Custom Textures Folder](btwmix_custom_textures/README.md) for the list of textures to be made. 
+
 
 Textures made *specifically for BTWMix* are [CC BY-NC](BTWMIX-SPECIFIC-ART-LICENSE), refer to the Eldpack Continued Readme below for attribution details for other textures. 
 
