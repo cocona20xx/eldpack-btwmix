@@ -2,9 +2,11 @@ BTWMix Custom Textures Directory
 =======================
 This directory contains `.asesprite` files and various misc. `.png` exports for the vast majority of textures created specifically for Eldpack Continued BTWMix.
 
+
 TODO TEXTURES LIST (BLOCKS):
+- improved diamondium block texture (make it more like the other metals)
 - Anchor block textures 
-- BTW:CE Anvil texture 
+- **[WIP]** BTW:CE Anvil texture (just use sfs/netherite block tex—needs to be altered slightly though!)
 - Ash groundcover/block texture 
 - Axle textures 
 - Barel top texture? the vanilla equiv. texture might be fine here as it is w. the side texture
@@ -22,10 +24,9 @@ TODO TEXTURES LIST (BLOCKS):
 - Cement textures
 - Chopping block textures
 - Clay 'ore' texture
-- Cobble & Stone Brick variant textures (probably just recolors for stratas, at least!), loose textures for cobble and various brick types, dirt, etc
+- Cobble strata textures, Brick Strata textures, etc w. loose/standard variants
 - Column textures
 - Companion Cube textures
-- Ore chunk textures (storage block forms can just use vanilla ore block textures as equiv.)
 - Storage block texturess for a large variety of materials
 - Detector block textures
 - Wooden and SFS Detector Rails
@@ -44,20 +45,17 @@ TODO TEXTURES LIST (BLOCKS):
 - Lava Pollow texture
 - Lens textures
 - Light Block textures
-- Lightning Rod texture? (looks to literally just be the gold block texture?)
 - Smoldering Log texture
-- ...milk and choccy milk block texture
+- milk and choccy milk block texture (these can probably just be flat colors)
 - Millstone textures
 - Mining charge textures
-- Grass/Mycelium/etc slab textures
 - Netherrack ore palette-swap to corrispond with 'darkstone' changes
-- strata versions of ore blocks (recolors? overlay nonsense?)
+- strata versions of ore blocks 
 - Packed earth texture
 - uncooked pastry texture (bread/cake?)
 - stone pedistal texture
 - planter textures
 - powder keg textures
-- sfs pressure plate texture
 - pulley textures
 - rope block textures
 - sapling stage textures 
@@ -87,7 +85,7 @@ TODO TEXTURES LIST (ITEMS):
 - bat wing texture
 - beast liver textures (cooked & raw)
 - bedroll texture (also needs a TE texture, probably?)
-- leather processing textures (tanned and scoured variants, cut variants, belt texture, etc)
+- **[CURRENTLY WIP!]** leather processing textures (tanned and scoured variants, cut variants, belt texture, etc)
 - windmill blade and waterwheel blade textures (both also need entity textures)
 - blasting oil texture
 - composite bow textures
@@ -96,7 +94,7 @@ TODO TEXTURES LIST (ITEMS):
 - brimstone dust texture
 - choccy milk & cement bucket textures
 - canvas texture (can probably be derived from the item frame texture?)
-- cooked carrot texture & carrot seeds texture
+- carrot seeds texture
 - both bone fish hook textures (unfinished/'carvingBone' & finished)
 - chicken feed texture
 - iron and diamond chisel textures
