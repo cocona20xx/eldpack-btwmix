@@ -23,8 +23,8 @@ TODO TEXTURES LIST (BLOCKS):
 - BTW Cauldron textures
 - Cement textures
 - Chopping block textures
-- Clay 'ore' texture
-- Cobble strata textures, Brick Strata textures, etc w. loose/standard variants
+- **[WIP]** Clay 'ore' texture - created but not added to the respack, waiting to implement until later 
+- **[WIP]** Various stone related textures. Cobble, loose cobble, smoothstone, and mossy cobble are done.
 - Column textures
 - Companion Cube textures
 - Storage block texturess for a large variety of materials
@@ -63,7 +63,7 @@ TODO TEXTURES LIST (BLOCKS):
 - screwpump textures
 - placed shaft/stick texture
 - piston shovel textures
-- soulforge textures
+- **[BONUS]** soulforge textures - currently using the gold and sfs block textures like default BTW, but fancier textures in the future maybe?
 - stake and string?? guh??
 - finite torch smoldering textures
 - tree stump/trunk textures
@@ -85,7 +85,7 @@ TODO TEXTURES LIST (ITEMS):
 - bat wing texture
 - beast liver textures (cooked & raw)
 - bedroll texture (also needs a TE texture, probably?)
-- **[CURRENTLY WIP!]** leather processing textures (tanned and scoured variants, cut variants, belt texture, etc)
+- **[WIP]** leather processing textures (tanned and scoured variants, cut variants, belt texture, etc)
 - windmill blade and waterwheel blade textures (both also need entity textures)
 - blasting oil texture
 - composite bow textures
