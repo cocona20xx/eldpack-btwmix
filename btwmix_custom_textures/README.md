@@ -12,7 +12,6 @@ TODO TEXTURES LIST (BLOCKS):
 - Barel top texture? the vanilla equiv. texture might be fine here as it is w. the side texture
 - Wicker basket textures
 - Bellows textures
-- Quartz Textures ('BlackStone'); these can probably just be a recolor
 - All Blight Textures
 - Block Dispenser Textures
 - BloodWood textures? (might just use crimson wood's textures for this?)
