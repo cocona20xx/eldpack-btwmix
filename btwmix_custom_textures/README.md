@@ -103,7 +103,6 @@ TODO TEXTURES LIST (ITEMS):
 - corpse eye texture (recolor of eye of ender, maybe?)
 - ~~creeper's balls~~ creeper oysters texture
 - pork, steak, and wolf dinner textures
-- donut texture
 - dung & golden dung texture
 - sawdust and souldust textures
 - dynamite texture

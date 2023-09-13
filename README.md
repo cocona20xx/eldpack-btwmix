@@ -5,28 +5,14 @@ Currently WIP. Things that need to be done before release:
 - Copy-paste textures for items and blocks added by BTW:CE that have vanilla counterparts in newer versions
 Check the README in the [Custom Textures Folder](btwmix_custom_textures/README.md) for the list of textures to be made. 
 
+Eldpack BTWMix attributions:
+------
+Bark Textures: Edits of the textures from the mod [Immersive Weathering](https://github.com/AstralOrdana/Immersive-Weathering). Immersive Weathering is [LGPL-3.0](https://github.com/AstralOrdana/Immersive-Weathering/blob/1.19.2-multiloader/LICENSE)
 
-Textures made *specifically for BTWMix* are [CC BY-NC](BTWMIX-SPECIFIC-ART-LICENSE), refer to the Eldpack Continued Readme below for attribution details for other textures. 
+All other textures are either original or from Eldpack Continued. Textures made *specifically for BTWMix* are [CC BY-NC](BTWMIX-SPECIFIC-ART-LICENSE).
 
 
-Main Eldpack Continued Readme:
-=================
-[**Thread on Minecraft Forum**](https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/resource-packs/1243614-eldpack-continued-1-13-16x)
-
-This is a continuation of the [Eldpack](https://eldpack.com/) resource pack for Minecraft.
-
-Currently, it is only available for Java Edition, but a Bedrock Edition version
-of the resource pack is also under development.
-
-Discussion largely takes place on Discord, specifically on <a href="https://www.minecraftforum.net/linkout?remoteUrl=https%253a%252f%252fdiscord.gg%252frnMsn5W">The Jman Jfan Club™</a>
-in the `#minecraft-eldpack` channel.
-
-- The "Eldpack Continued" directory contains the texture pack for v1.19.
-- The "Eldpack Bedrock" directory contains the texture pack for Bedrock Edition.
-- The "old_stuff" directory contains the contents of the repository before v1.14.
-- An older WIP v1.14 port is available on the "dev" branch (as of this writing). Some contents from this version have been merged back into the main branch.
-
-Credits
+Eldpack Continued Credits/Attribution
 -------
 Original Resource Pack by [Eld](https://www.jonatanpoljo.com/)
 
