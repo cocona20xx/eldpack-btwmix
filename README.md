@@ -7,7 +7,7 @@ Check the README in the [Custom Textures Folder](btwmix_custom_textures/README.m
 
 Eldpack BTWMix attributions:
 ------
-Bark Textures: Edits of the textures from the mod [Immersive Weathering](https://github.com/AstralOrdana/Immersive-Weathering). Immersive Weathering is [LGPL-3.0](https://github.com/AstralOrdana/Immersive-Weathering/blob/1.19.2-multiloader/LICENSE)
+Bark Textures: Edits of the textures from the mod [Immersive Weathering](https://github.com/AstralOrdana/Immersive-Weathering). Immersive Weathering is [LGPL-3.0](https://github.com/AstralOrdana/Immersive-Weathering/blob/1.19.2-multiloader/LICENSE).
 
 All other textures are either original or from Eldpack Continued. Textures made *specifically for BTWMix* are [CC BY-NC](BTWMIX-SPECIFIC-ART-LICENSE).
 
