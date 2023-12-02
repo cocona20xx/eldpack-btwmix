@@ -14,7 +14,6 @@ TODO TEXTURES LIST (BLOCKS):
 - Bellows textures
 - All Blight Textures
 - Block Dispenser Textures
-- BloodWood textures? (might just use crimson wood's textures for this?)
 - Placed bucket related textures
 - Buddy Block textures
 - Campfire textures
@@ -25,14 +24,11 @@ TODO TEXTURES LIST (BLOCKS):
 - **[WIP]** Clay 'ore' texture - created but not added to the respack, waiting to implement until later 
 - **[WIP]** Various stone related textures. Cobble, loose cobble, smoothstone, and mossy cobble are done.
 - Column textures
-- Companion Cube textures
-- Storage block texturess for a large variety of materials
+- Storage block textures for a large variety of materials
 - Detector block textures
 - Wooden and SFS Detector Rails
 - Fertilized farmland textures (can be simple edits of regular farmland!)
-- Brick furnace textures
 - Gearbox textures & redstone latch textures
-- Sparce grass overlay + underlying dirt textures (just reuse loose dirt for underlying?)
 - Grate block texture
 - Nether groth textures
 - Hamper textures (can probably sample from basket textures for this once those are made)
@@ -48,8 +44,6 @@ TODO TEXTURES LIST (BLOCKS):
 - milk and choccy milk block texture (these can probably just be flat colors)
 - Millstone textures
 - Mining charge textures
-- Netherrack ore palette-swap to corrispond with 'darkstone' changes
-- strata versions of ore blocks 
 - Packed earth texture
 - uncooked pastry texture (bread/cake?)
 - stone pedistal texture
@@ -58,13 +52,10 @@ TODO TEXTURES LIST (BLOCKS):
 - pulley textures
 - rope block textures
 - sapling stage textures 
-- saw textures
 - screwpump textures
-- placed shaft/stick texture
 - piston shovel textures
 - **[BONUS]** soulforge textures - currently using the gold and sfs block textures like default BTW, but fancier textures in the future maybe?
 - stake and string?? guh??
-- finite torch smoldering textures
 - tree stump/trunk textures
 - turntable textures
 - pumpkin pie block textures
@@ -72,7 +63,6 @@ TODO TEXTURES LIST (BLOCKS):
 - veghenna-reworked wheat textures
 - wicker block texture
 - 'woodCinders' texture (can probably reuse ashes texture for this maybe?)
-- workstump textures
 - various overlay textures (there's a lot of these, some reuse breaking textures) 
 
 TODO TEXTURES LIST (ITEMS):
@@ -80,7 +70,6 @@ TODO TEXTURES LIST (ITEMS):
 - Diamond and SFS Armor Plate textures
 - Rotten and Broadhead Arrow-related textures (also needs entity textures!)
 - Various SFS Tool textures w.o vanilla tool counterparts
-- bark textures (could go the lazy route and just use the log side textures to start, but these should get a proper texture eventually!!)
 - bat wing texture
 - beast liver textures (cooked & raw)
 - bedroll texture (also needs a TE texture, probably?)
@@ -99,7 +88,6 @@ TODO TEXTURES LIST (ITEMS):
 - chocolate texture
 - wood & bone club textures
 - cocoa powder texture
-- concentrated hellfire & dust hellfire textures
 - corpse eye texture (recolor of eye of ender, maybe?)
 - ~~creeper's balls~~ creeper oysters texture
 - pork, steak, and wolf dinner textures
@@ -142,7 +130,7 @@ TODO TEXTURES LIST (ITEMS):
 - ocular of ender texture
 - padded armor textures
 - fabric texture
-- textures for piles (clay, dirt, gold dust, iron dust, sand, soul sand)
+- textures for piles (clay, dirt, sand, soul sand)
 - redstone eye texture
 - redstone latch texture
 - rope texture
